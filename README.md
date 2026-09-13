@@ -2,26 +2,40 @@
 
 **Don’t just reach the Far Lands. Push until Minecraft runs out.**
 
-Fracturepoint is a public Minecraft Java 26.2 survival/PvP mathematical expedition. Face one of eight directions and spend three survival-earned gold to launch in front of the Classic Far Lands at 12,550,821 blocks. Continue through 351 persistent generated frontiers toward the exact finite-double endpoint.
+Fracturepoint is a small public Minecraft Java 26.2 survival/PvP server built
+around a shared mathematical expedition. The first Overworld launch lands in
+front of the Classic Far Lands at 12,550,821 blocks. From there, 351 persistent
+frontiers follow terrain breakdown toward the finite-double endpoint.
 
 ## Join
 
-1. Download the latest `Fracturepoint-26.2-1.3.1.mrpack` release.
-2. In Prism Launcher choose **Add Instance → Import**.
-3. Launch the imported instance; the server is already saved.
+1. Download `Fracturepoint-26.2-1.3.2.mrpack` from the latest release.
+2. Open Prism Launcher and choose **Add Instance → Import**.
+3. Select the downloaded `.mrpack` and launch it.
+4. The official server is already saved: `31.220.62.89:25565`.
 
-Server: `31.220.62.89:25565`
+The pack includes Fabric 0.19.5, the exact Fracturepoint client, Sodium, Iris,
+Complementary Reimagined, dynamic lights, claims, and Waystones. Shaders are
+included but disabled by default for comfort and accessibility.
 
-## Travel
+## What is different
 
-Complete the displayed time and chunk requirement, carry three gold ingots, and press **TRAVEL NEXT — 3 GOLD**. The opening Overworld jump lands directly in front of the Far Lands wall. Going home, returning to your saved stop, calibrations, and unlocked revisits are free. There is no “Resume First” step.
+- Eight-direction Overworld and Nether expeditions.
+- 351 paid frontiers; new stops cost three survival-earned gold.
+- One obvious paid action: `TRAVEL NEXT — 3 GOLD` after each completed stop.
+- Going home, going back to your saved stop, calibrations, and unlocked revisits are free.
+- Vanilla End exploration capped at 100,000 Journal blocks, preserving natural
+  End Cities, ships, loot, and Elytras.
+- Shared persistent terrain and builds with personal route progress.
+- PvP, claims, village Waystones, and no pay-to-win store.
+- Layered server-side anti-cheat plus Ledger evidence and rollback.
 
-The Overworld and Nether support eight-direction routes; Nether distance follows Minecraft’s 8× relationship. The End stays vanilla and Journal travel is capped at 100,000 blocks so End Cities, ships, loot, and Elytras remain natural.
+Read `SERVER-RULES.md` before joining. No anti-cheat is infallible; reports and
+alerts are reviewed against server evidence rather than used for blind bans.
 
-## Community and protection
+## Integrity
 
-PvP is enabled. Claims and recoverable Waystones protect builds and discoveries. Layered server-side AntiFlight, Panda Anti-Exploit, ViperAntiXray, Ledger evidence/rollback, secure authentication, and rolling backups protect the ten-player opening cohort. No anti-cheat is infallible, so alerts are reviewed against evidence rather than used for blind bans.
+`Fracturepoint-26.2-1.3.2.mrpack`  
+SHA-256: `ea876c3b7949baec1ecdeb9dc8893776d2df79eb23f84a9a19de69a086752f9d`
 
-Shaders and dynamic lights are included; shaders are disabled by default for accessibility. No pay-to-win and no hand-built fake Far Lands.
-
-See the release checksum and server rules before joining.
+Only use the release file whose checksum matches this value.
