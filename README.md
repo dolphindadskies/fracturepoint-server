@@ -1,40 +1,40 @@
-# Fracturepoint — The End of Minecraft
+# Fracturepoint — Far Lands Anarchy
 
-**Don’t just reach the Far Lands. Push until Minecraft runs out.**
+**One permanent world. Far Lands, proximity voice and no teleport shortcuts.**
 
-Fracturepoint is a public Minecraft Java 26.2 survival/PvP server built around a shared mathematical expedition. Your first Overworld jump lands in front of the Classic Far Lands at 12,550,821 blocks. From there, 351 persistent frontiers push through walls, stripes, sheets, sparsity, and toward the finite-double endpoint.
+Join **`fracturepoint.duckdns.org`** using **Minecraft Java 26.2**.
+Fracturepoint opened November 8, 2026 at 10:01 PM Pacific and has no scheduled
+world wipes. New arrivals spawn at random surface locations within a 2,000 by
+2,000 area. PvP, griefing and raiding are part of the world, with no land claims,
+homes, TPA, warps, Waystones or donor teleport shortcuts.
 
-## Join
+## Easy voice setup
 
-1. Download `Fracturepoint-26.2-1.3.3.mrpack` from the [latest release](https://github.com/dolphindadskies/fracturepoint-server/releases/latest).
-2. In Prism Launcher, choose **Add Instance → Import**.
-3. Select the downloaded `.mrpack` and launch it.
-4. The official server is already saved: `31.220.62.89:25565`.
+**[Get the starter pack and follow the four-step setup](downloads/README.md).**
 
-The pack includes Fabric 0.19.5, the exact Fracturepoint client, Sodium, Iris, Complementary Reimagined, dynamic lights, claims, and Waystones. Shaders are included but disabled by default for comfort and accessibility.
+Import the starter once in Prism Launcher or the Modrinth App. It downloads the
+voice and performance mods when you connect and keeps the client pack updated.
+Players approve the initial download and restart once to load the mods. A normal
+Java 26.2 client can still join without the pack; proximity voice needs the mod.
 
-## What is different
+## Explore and build
 
-- Eight-direction Overworld and Nether expeditions.
-- 351 paid frontiers; new stops cost three survival-earned gold.
-- One obvious paid action: `TRAVEL NEXT — 3 GOLD` after each completed stop.
-- Going home, returning to your saved stop, calibrations, and unlocked revisits are free.
-- Vanilla End exploration capped at 100,000 Journal blocks, preserving natural End Cities, ships, loot, and Elytras.
-- Shared persistent terrain and builds with personal route progress.
-- PvP, claims, village Waystones, and no pay-to-win store.
-- Layered server-side anti-cheat plus Ledger evidence and rollback.
+The world is roughly 60 million blocks across. Restored Classic Far Lands begin
+around 12.55 million blocks from the center. Travel by normal portals and
+player-built transportation, build highways and bases, raid rivals and leave
+your mark in the permanent world.
 
-## Record integrity
+## Launch duping
 
-The HUD’s **blocks from spawn** is exact `floor(sqrt(X² + Z²))`, computed only with `BigInteger` from canonical coordinates. Exact X and Z are displayed separately. Use `/expedition record` at a frontier to create a server-authoritative checkpoint containing your UUID, exact X/Z and distance, committed stage and branch, UTC timestamp, route-manifest hash, and SHA-256 proof digest.
+The launch item-duping event runs through **November 29, 2026 at 10:01 PM Pacific**.
+Use `/guide` and `/duping` in game for the current instructions and event status.
+Rare future official dupe events will celebrate community growth. Discovered
+item dupes are patched between official events. TNT duplication remains allowed
+for player-built mechanisms.
 
-Atlas boundaries are enforced server-side; crossing into a buffer or another stage cannot create a valid record. Historical screenshots taken from an uncommitted physical cell are not record evidence.
+**[Join our Discord](https://discord.gg/Wy9r5aJ4EH)** for the dupe video, setup
+guides and community. The same links are available through `/discord` and
+**Pause → Server Links** in game.
 
-Read [SERVER-RULES.md](SERVER-RULES.md) before joining. No anti-cheat is infallible; reports and alerts are reviewed against server evidence rather than used for blind bans.
-
-## Integrity
-
-`Fracturepoint-26.2-1.3.3.mrpack`  
-SHA-256: `5a5210261bd0ca8cce8002e3ec7cb29893ab1d9faa5da106a1864acb497ff2ff`
-
-Only use the release file whose checksum matches this value.
+Older expedition/Waystones releases in this repository describe an earlier
+project. Use the current starter linked above for the live permanent server.

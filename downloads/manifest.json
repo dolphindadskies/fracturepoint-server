@@ -1,0 +1,75 @@
+{
+  "minecraft": "26.2",
+  "fabricLoader": "0.19.5",
+  "AutoModpack": "4.0.7",
+  "server": "fracturepoint.duckdns.org",
+  "serverCertificateSHA256": "89e2d8d31a907518f49224801f502256f64d45f53c2f74405a4a0c7ef8cad621",
+  "managedMods": [
+    {
+      "name": "fabric-api-0.160.0+26.2.jar",
+      "version": "0.160.0+26.2",
+      "project": "https://modrinth.com/mod/fabric-api",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/UWwhUX3k/fabric-api-0.160.0%2B26.2.jar",
+      "hashes": {
+        "sha1": "58e82722dee4a78235c4b5c06100ae433973f62e",
+        "sha512": "1a08b68b2c2c90f6005ef441ab71b65f464be964005b9c0d18e6fc6c5ec53fe346e7dd76189c4f09ade59ef9bc3b836376a2cc71d4ce6e9be47122477d1bbd1e"
+      },
+      "license": {
+        "id": "Apache-2.0",
+        "name": "Apache License 2.0",
+        "url": null
+      }
+    },
+    {
+      "name": "voicechat-fabric-2.6.22+26.2.jar",
+      "version": "fabric-2.6.22+26.2",
+      "project": "https://modrinth.com/mod/simple-voice-chat",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/DKSq5wO6/voicechat-fabric-2.6.22%2B26.2.jar",
+      "hashes": {
+        "sha1": "f36fca7d4d091421e55f2a22d4e3cd0f462082b9",
+        "sha512": "eb45e75e8b031f3bb27e178ed44fd7b78ba681f077f5972e170726b4837146efd49c7b67d63a95ec4ce87e5672cf76bed85ac8fa7790a9e7ff7309a6c3f424ee"
+      },
+      "license": {
+        "id": "LicenseRef-All-Rights-Reserved",
+        "name": "",
+        "url": null
+      }
+    },
+    {
+      "name": "sodium-fabric-0.9.2+mc26.2.jar",
+      "version": "mc26.2-0.9.2-fabric",
+      "project": "https://modrinth.com/mod/sodium",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar",
+      "hashes": {
+        "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323",
+        "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c"
+      },
+      "license": {
+        "id": "LicenseRef-Polyform-Shield-1.0.0",
+        "name": "",
+        "url": "https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md"
+      }
+    },
+    {
+      "name": "lithium-fabric-0.25.3+mc26.2.jar",
+      "version": "mc26.2-0.25.3-fabric",
+      "project": "https://modrinth.com/mod/lithium",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar",
+      "hashes": {
+        "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
+        "sha512": "148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd"
+      },
+      "license": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    }
+  ],
+  "verified": {
+    "initialDownload": true,
+    "automaticUpdateOnLaunch": true,
+    "inGameJoin": true,
+    "voiceServerAuthentication": true
+  }
+}
