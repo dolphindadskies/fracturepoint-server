@@ -1,10 +1,10 @@
 # Play Fracturepoint with voice chat
 
-**[Download the Fracturepoint starter pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-starter-26.2-1.0.0.mrpack)**
+**[Download the Fracturepoint starter pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-starter-26.2-1.0.1.mrpack)**
 
 1. Open the downloaded `.mrpack` in **Prism Launcher** or the **Modrinth App**.
    Let the launcher install it, then launch the new Fracturepoint profile.
-2. Choose **Multiplayer → Fracturepoint → Join**.
+2. Choose **Multiplayer → Fracturepoint SMP → Join**.
 3. Accept **Download modpack**, then close and relaunch the game when prompted.
 4. Join again. Press **V** and follow the voice setup to choose your microphone
    and push-to-talk key. **M** mutes your microphone.
@@ -21,6 +21,14 @@ Need a launcher? Use [Prism Launcher](https://prismlauncher.org/download/) or
 [the Modrinth App](https://modrinth.com/app). Sign in with your own Minecraft
 account through the launcher's normal Microsoft sign-in.
 
+## Your saved server entry
+
+The imported profile already includes **Fracturepoint SMP** with the server address
+and icon. You do not need to add the server manually in this profile. Existing
+players do not need to reinstall for this branding update. Pack updates do not
+replace your saved favorites in other profiles. A normal Minecraft connection
+cannot add a favorite automatically; use **Add Server** if you join without the pack.
+
 ## What's included
 
 The starter installs AutoModpack 4.0.7. Our server then provides Simple Voice Chat
@@ -34,7 +42,7 @@ does not include admin tools, cheats, personal maps, shaders or an always-on mic
 You choose your microphone and push-to-talk key yourself.
 
 If your launcher cannot use the starter, try the
-[full fallback pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-full-fallback-26.2-1.0.0.mrpack).
+[full fallback pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-full-fallback-26.2-1.0.1.mrpack).
 It includes official download references for the same mods at import time.
 Avoid installing both packs into the same instance.
 

@@ -1,2 +1,4 @@
 a31039d16cb3948f02ea6dfbc7723c6187e1eedb46f54568346ba9e619352018  Fracturepoint-starter-26.2-1.0.0.mrpack
 afac4a2efc16639e6f8819421e9b1f09bf9c565e984b1349b389d022604f3799  Fracturepoint-full-fallback-26.2-1.0.0.mrpack
+4e36841270b8b7efe99f1f74c867804664b3a2e04896c534133de38e862d3f33  Fracturepoint-starter-26.2-1.0.1.mrpack
+c78c43088c50dff0d51d7de0f338618284ffd8c6cb6b536fc95361f8aa39666f  Fracturepoint-full-fallback-26.2-1.0.1.mrpack

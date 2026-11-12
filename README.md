@@ -1,5 +1,7 @@
 # Fracturepoint SMP — Farlands Anarchy
 
+<img src="branding/fsmp-mossy-stone-icon.png" alt="Fracturepoint SMP mossy stone FSMP icon" width="128" height="128">
+
 **A permanent Farlands anarchy SMP with restored Classic Far Lands, proximity voice chat, no wipes and no teleport commands.**
 
 Escape ruined spawn, build a hidden stash and find your crew. Join **`fracturepoint.duckdns.org`** using **Minecraft Java 26.2**.
