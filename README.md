@@ -13,12 +13,15 @@ homes, TPA, warps, Waystones or donor teleport shortcuts.
 
 ## Easy voice setup
 
-**[Get the starter pack and follow the four-step setup](downloads/README.md).**
+**[Get the complete pack and follow the three-step setup](downloads/README.md).**
 
-Import the starter once in Prism Launcher or the Modrinth App. It downloads the
-voice and performance mods when you connect and keeps the client pack updated.
-Players approve the initial download and restart once to load the mods. A normal
-Java 26.2 client can still join without the pack; proximity voice needs the mod.
+Import once in Prism Launcher or the Modrinth App. The recommended complete pack
+installs voice and performance mods through the launcher. Join, accept any
+requested pack update/restart, then press **V** for the one-time microphone and
+talk-mode setup. Use the same profile next time: audio choices are saved and
+voice reconnects automatically. The lightweight starter remains available.
+A normal Java 26.2 client can still play without the pack; proximity voice needs
+the voice mod. The guide explains quiet, muted and disconnected states.
 
 ## Explore the Far Lands and build your history
 
