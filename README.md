@@ -15,7 +15,8 @@ homes, TPA, warps, Waystones or donor teleport shortcuts.
 
 **[Get the complete pack and follow the three-step setup](downloads/README.md).**
 
-The pack is required. Import it once in Prism Launcher or the Modrinth App,
+The pack is optional: you can join with normal Java 26.2. For voice and
+managed updates, import it once in Prism Launcher or the Modrinth App,
 join, and accept any requested pack download and restart. Press **V** for the
 one-time microphone and talk-mode setup. Use the same profile next time for
 managed updates; audio choices are saved. A plain Java client cannot install
