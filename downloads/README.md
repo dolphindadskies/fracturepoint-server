@@ -1,8 +1,8 @@
-# Join Fracturepoint with the required pack and proximity voice
+# Join Fracturepoint — optional pack and proximity voice
 
 **[Download the ready-to-play Fracturepoint pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-full-fallback-26.2-1.0.1.mrpack)**
 
-The Fracturepoint pack is required to join. This ready-to-play download includes voice and performance mods, so you do not have to find individual mod files. A plain vanilla client cannot download executable mods just by joining.
+**You can join with normal Minecraft Java 26.2. The pack is optional.** This ready-to-play download includes voice and performance mods, so you do not have to find individual mod files. A plain vanilla client cannot download executable mods just by joining.
 
 1. Open the `.mrpack` in **[Prism Launcher](https://prismlauncher.org/download/)** or the **[Modrinth App](https://modrinth.com/app)**. Sign in with your own Minecraft account and launch the new **Fracturepoint** profile.
 2. Choose **Multiplayer → Fracturepoint SMP → Join**. Accept a managed-pack download if prompted; close and relaunch this profile if it asks you to restart.
@@ -44,7 +44,7 @@ Both imported packs include **Fracturepoint SMP** with its address and icon. Pac
 
 ## What's included
 
-AutoModpack 4.0.7, Simple Voice Chat 2.6.22, Fabric API 0.160.0, Sodium 0.9.2 and Lithium 0.25.3 for Minecraft 26.2. The managed pack is required to join; the voice mod enables in-game proximity voice.
+AutoModpack 4.0.7, Simple Voice Chat 2.6.22, Fabric API 0.160.0, Sodium 0.9.2 and Lithium 0.25.3 for Minecraft 26.2. The optional managed pack enables automatic updates; the voice mod enables in-game proximity voice.
 
 Both packs include only the server's **public certificate fingerprint**, not passwords or private keys. Downloads use official publisher hosting. There are no admin tools, cheats, personal maps, shaders or personal audio-device settings in these packs. See `SHA256SUMS.txt` in this folder for artifact checksums.
 
