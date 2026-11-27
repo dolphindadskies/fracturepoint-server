@@ -1,8 +1,8 @@
-# Join Fracturepoint with proximity voice
+# Join Fracturepoint with the required pack and proximity voice
 
 **[Download the ready-to-play Fracturepoint pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-full-fallback-26.2-1.0.1.mrpack)**
 
-This includes the voice and performance mods in the launcher's installation, so you do not have to find individual mod files.
+The Fracturepoint pack is required to join. This ready-to-play download includes voice and performance mods, so you do not have to find individual mod files. A plain vanilla client cannot download executable mods just by joining.
 
 1. Open the `.mrpack` in **[Prism Launcher](https://prismlauncher.org/download/)** or the **[Modrinth App](https://modrinth.com/app)**. Sign in with your own Minecraft account and launch the new **Fracturepoint** profile.
 2. Choose **Multiplayer → Fracturepoint SMP → Join**. Accept a managed-pack download if prompted; close and relaunch this profile if it asks you to restart.
@@ -34,19 +34,23 @@ Each player chooses their own microphone and talk mode once. The pack does not t
 
 ## Already installed? Keep your working profile
 
-Existing players do **not** need to switch packs or reinstall. The ready-to-play download above uses the same verified mod versions as the lightweight starter; it changes when the launcher downloads them, not the gameplay.
+If your existing Fracturepoint profile already has AutoModpack and the managed pack, keep using it. If it does not, import the ready-to-play pack above into a new profile and complete the first join and any requested restart. Keep your existing profile and its personal settings.
 
 If you prefer the smaller initial download, the [lightweight starter pack](https://github.com/dolphindadskies/fracturepoint-server/raw/refs/heads/main/downloads/Fracturepoint-starter-26.2-1.0.1.mrpack) installs AutoModpack first. Join, accept **Download modpack**, close and relaunch when prompted, then join again and press **V** for your first voice setup. Import **one** pack into a new profile; do not combine both in the same instance.
 
 ## Your saved server entry
 
-Both imported packs include **Fracturepoint SMP** with its address and icon. Pack updates do not replace favorites in other profiles. Normal Direct Connect cannot add a favorite automatically; use **Add Server** if you join without the pack.
+Both imported packs include **Fracturepoint SMP** with its address and icon. Pack updates do not replace favorites in other profiles. Normal Direct Connect cannot add a favorite automatically; use **Add Server** if you need to add the address manually.
 
 ## What's included
 
-AutoModpack 4.0.7, Simple Voice Chat 2.6.22, Fabric API 0.160.0, Sodium 0.9.2 and Lithium 0.25.3 for Minecraft 26.2. Voice and performance mods are optional for playing; the voice mod is required for in-game proximity voice.
+AutoModpack 4.0.7, Simple Voice Chat 2.6.22, Fabric API 0.160.0, Sodium 0.9.2 and Lithium 0.25.3 for Minecraft 26.2. The managed pack is required to join; the voice mod enables in-game proximity voice.
 
 Both packs include only the server's **public certificate fingerprint**, not passwords or private keys. Downloads use official publisher hosting. There are no admin tools, cheats, personal maps, shaders or personal audio-device settings in these packs. See `SHA256SUMS.txt` in this folder for artifact checksums.
+
+## Cannon videos and build resources
+
+See the [pearl launcher and orbital cannon guide](../guides/CANNONS.md) for creator videos, schematics and the differences between the original machines and our setup.
 
 ## Credits
 
@@ -54,4 +58,5 @@ Both packs include only the server's **public certificate fingerprint**, not pas
 - [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) by Max Henkel and contributors; [modpack permission](https://dev.modrepo.de/minecraft/voicechat/faq).
 - [Fabric API](https://modrinth.com/mod/fabric-api) by FabricMC.
 - [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) by CaffeineMC and contributors.
+
 
