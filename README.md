@@ -15,13 +15,11 @@ homes, TPA, warps, Waystones or donor teleport shortcuts.
 
 **[Get the complete pack and follow the three-step setup](downloads/README.md).**
 
-Import once in Prism Launcher or the Modrinth App. The recommended complete pack
-installs voice and performance mods through the launcher. Join, accept any
-requested pack update/restart, then press **V** for the one-time microphone and
-talk-mode setup. Use the same profile next time: audio choices are saved and
-voice reconnects automatically. The lightweight starter remains available.
-A normal Java 26.2 client can still play without the pack; proximity voice needs
-the voice mod. The guide explains quiet, muted and disconnected states.
+The pack is required. Import it once in Prism Launcher or the Modrinth App,
+join, and accept any requested pack download and restart. Press **V** for the
+one-time microphone and talk-mode setup. Use the same profile next time for
+managed updates; audio choices are saved. A plain Java client cannot install
+mods just by joining. The guide explains quiet, muted and disconnected states.
 
 ## Explore the Far Lands and build your history
 
@@ -29,6 +27,12 @@ The world is roughly 60 million blocks across. Restored Classic Far Lands begin
 around 12.55 million blocks from the center. Travel by normal portals and
 player-built transportation, build highways and bases, raid rivals and leave
 your mark in the permanent world.
+
+## Cannons and long-distance travel
+
+Learn about the shared Far Lands pearl launcher and orbital cannon, including
+creator videos, original schematics and important differences in our setup: 
+**[Cannon guide](guides/CANNONS.md)**.
 
 ## Launch duping
 
@@ -54,3 +58,4 @@ Voting is optional. No purchase or vote is required to join or use the announced
 
 Older expedition/Waystones releases in this repository describe an earlier
 project. Use the current starter linked above for the live permanent server.
+
